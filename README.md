@@ -51,7 +51,7 @@ Mod loader is NeoForge. Version is 21.1.250.
 | Dummmmmmy
 | Dynamic Difficulty
 | [E4MC](https://modrinth.com/mod/e4mc)
-| Efis Compat(?)
+| [Epic Fight Iron's Spells Compat](https://www.curseforge.com/minecraft/mc-mods/epic-fight-x-irons-spells-enhanced-animations)
 | Epic API
 | Epic Fight
 | Epic Fight Better LockOn
